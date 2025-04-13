@@ -17,6 +17,13 @@
 - Os dados das tarefas são salvos localmente no dispositivo.
 
 
+### Telas 
+
+(assets/images/telasemtarefas.png)
+(assets/images/telacomtarefas.png)
+(assets/images/form.png)
+(assets/images/formcominfos.png)
+(assets/images/excluir.png)
 
 
 
