@@ -19,16 +19,16 @@
 ## Telas
 
 ### Tela sem Tarefas
-![Tela sem Tarefas](assets/images/telasemtarefas.png)
+![Tela sem Tarefas](https://github.com/Geneton-Souza/App-tarefas/blob/main/tarefas/assets/images/telasemtarefas.png?raw=true)
 
 ### Tela com Tarefas
-![Tela com Tarefas](assets/images/telacomtarefas.png)
+![Tela com Tarefas](https://github.com/Geneton-Souza/App-tarefas/blob/main/tarefas/assets/images/telacomtarefas.png?raw=true)
 
 ### Formulário
-![Formulário](assets/images/form.png)
+![Formulário](https://github.com/Geneton-Souza/App-tarefas/blob/main/tarefas/assets/images/form.png?raw=true)
 
 ### Formulário com Informações
-![Formulário com Informações](assets/images/formcominfos.png)
+![Formulário com Informações](https://github.com/Geneton-Souza/App-tarefas/blob/main/tarefas/assets/images/form.png?raw=true)
 
 ### Excluir Tarefa
 ![Excluir Tarefa](https://raw.githubusercontent.com/Geneton-Souza/App-tarefas/refs/heads/main/tarefas/assets/images/excluir.png)
