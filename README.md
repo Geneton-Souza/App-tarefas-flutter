@@ -31,7 +31,7 @@
 ![Formulário com Informações](assets/images/formcominfos.png)
 
 ### Excluir Tarefa
-![Excluir Tarefa](assets/images/excluir.png)
+![Excluir Tarefa](https://raw.githubusercontent.com/Geneton-Souza/App-tarefas/refs/heads/main/tarefas/assets/images/excluir.png)
 
 
 
