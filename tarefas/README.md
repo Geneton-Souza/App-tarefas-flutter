@@ -1,6 +1,27 @@
-# tarefas
+# App de Tarefas
 
-A new Flutter project.
+## Funcionalidades:
+### - Criação de Tarefas:
+- Adiciona tarefas com:
+  - Nome
+  - Dificuldade
+  - Foto (adicionada com URL)
+
+### - Aumento de Nível:
+- Botão "UP" para aumentar o nível da tarefa.
+
+### - Exclusão de Tarefas:
+- Segurando o botão "UP", aparece um alerta para excluir a tarefa.
+
+### - Armazenamento de Dados:
+- Os dados das tarefas são salvos localmente no dispositivo.
+
+
+
+
+
+
+  
 
 ## Getting Started
 
