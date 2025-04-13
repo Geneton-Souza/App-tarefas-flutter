@@ -28,7 +28,7 @@
 ![Formulário](https://github.com/Geneton-Souza/App-tarefas/blob/main/tarefas/assets/images/form.png?raw=true)
 
 ### Formulário com Informações
-![Formulário com Informações](https://github.com/Geneton-Souza/App-tarefas/blob/main/tarefas/assets/images/form.png?raw=true)
+![Formulário com Informações](https://github.com/Geneton-Souza/App-tarefas/blob/main/tarefas/assets/images/formcominfos.png?raw=true)
 
 ### Excluir Tarefa
 ![Excluir Tarefa](https://raw.githubusercontent.com/Geneton-Souza/App-tarefas/refs/heads/main/tarefas/assets/images/excluir.png)
