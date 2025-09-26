@@ -79,9 +79,9 @@ class _MyTaskPageState extends State<MyTaskPage> {
                       return const Center(
                           child: Column(
                         mainAxisAlignment: MainAxisAlignment.center,
-                        // não implementado em vídeo por descuido meu, desculpem.
+                        
                         crossAxisAlignment: CrossAxisAlignment.center,
-                        // essa linha de layout deixa o conteudo totalmente centralizado.
+                        
                         children: [
                           Icon(
                             Icons.error_outline,
