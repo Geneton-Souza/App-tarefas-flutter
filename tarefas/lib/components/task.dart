@@ -117,9 +117,9 @@ class _TaskState extends State<Task> {
                                     child: Text("Excluir"),
                                     onPressed: () {
                                       Navigator.of(context).pop();
-                                      // Fechar diálogo
+                                      
                                       TaskDao().delete(widget.name);
-                                      // Adicionar aqui a lógica para exclusão do item
+                                      
                                       print("Item excluído");
                                     },
                                   ),
